@@ -1,7 +1,7 @@
 " modified: 2025/03/12
 " set coloscheme and fonts
-colorscheme gruvbox
-set guifont=Source\ Code\ Pro:h16
+" colorscheme gruvbox
+" set guifont=Source\ Code\ Pro:h16
 
 " map leader as ,
 let mapleader=","
